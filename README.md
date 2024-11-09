@@ -1,0 +1,2 @@
+# Agriculture-marketplace-and-prediction-system-using-ML-and-blockchain
+This repository features a comprehensive platform for the agriculture sector, combining blockchain for supply chain transparency and AI for crop disease detection, yield prediction, and crop recommendations. Includes a chatbot that suggests crops based on weather and soil conditions, promoting effective crop rotation and sustainable farming.
